@@ -1,3 +1,4 @@
 saved_models/weights.best.ResNet50.hdf5
 saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best_augmented.from_scratch.hdf5
+__pycache__
